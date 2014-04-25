@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2013.5.2)  25 APR 2014 09:30
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2013.5.2)  25 APR 2014 10:07
 entering extended mode
  %&-line parsing enabled.
 **prct11.tex
@@ -1105,6 +1105,10 @@ LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <4> not available
 
 ] [11
 
+] [12
+
+] [13
+
  </usr/share/texmf/tex/latex/beamer/base/art/beamericonbook.pdf>]
 \tf@nav=\write6
 \openout6 = `prct11.nav'.
@@ -1122,9 +1126,9 @@ LaTeX Font Warning: Size substitutions with differences
 
  ) 
 Here is how much of TeX's memory you used:
- 15462 strings out of 495061
- 285193 string characters out of 1182622
- 359160 words of memory out of 3000000
+ 15466 strings out of 495061
+ 285231 string characters out of 1182622
+ 362160 words of memory out of 3000000
  18200 multiletter control sequences out of 15000+50000
  15533 words of font info for 58 fonts, out of 3000000 for 9000
  28 hyphenation exceptions out of 8191
@@ -1141,9 +1145,9 @@ ive/fonts/type1/public/amsfonts/cm/cmssi10.pfb></usr/share/texmf-texlive/fonts/
 type1/public/amsfonts/cm/cmssi8.pfb></usr/share/texmf-texlive/fonts/type1/publi
 c/amsfonts/cm/cmsy10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/
 cm/cmsy8.pfb>
-Output written on prct11.pdf (11 pages, 199657 bytes).
+Output written on prct11.pdf (13 pages, 217208 bytes).
 PDF statistics:
- 394 PDF objects out of 1000 (max. 8388607)
- 27 named destinations out of 1000 (max. 500000)
+ 448 PDF objects out of 1000 (max. 8388607)
+ 31 named destinations out of 1000 (max. 500000)
  93 words of extra memory for PDF output out of 10000 (max. 10000000)
 
